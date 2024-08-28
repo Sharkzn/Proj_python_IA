@@ -1,5 +1,5 @@
 Frutas = [
-    "Pera",
+    "Banana",
     "Laranja",
     "Manga",
     "Mexirica",
