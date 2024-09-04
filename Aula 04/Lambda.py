@@ -1,5 +1,5 @@
 class Lambda:
-    Adi = lambda X,Y: X+Y
-    Sub = lambda X,Y: X-Y
-    Div = lambda X,Y: X/Y
-    Mul = lambda X,Y: X*Y
+    Adi = lambda x,y: x+y
+    Sub = lambda x,y: x-y
+    Div = lambda x,y: x/y
+    Mul = lambda x,y: x*y
