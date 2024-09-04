@@ -5,4 +5,4 @@ else:
     if(Idade >= 13):
         print("Você é Adolecente!!!")
     else:
-            print("Você é Criança!!!") .__annotations__
+            print("Você é Criança!!!")
