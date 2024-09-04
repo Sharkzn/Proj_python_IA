@@ -1,27 +1,27 @@
 class Calculadora:
     def calcular() :
-        X = 2
-        Y = 2
-        Res = X+Y
-        print(Res)
+        x = 2
+        y = 2
+        res = x+y
+        print(res)
 
-    def Adicao(X,Y):
-        Res = X+Y
-        print(Res)
+    def Adicao (x,y) :
+        res = x+y
+        print(res) 
 
-    def Subtracao(X,Y):
-        Res = X-Y
-        print(Res)
+    def Subtracao(x,y):
+        res = x-y
+        print(res)
 
-    def Multiplicacao(X,Y):
-        Res = X*Y
-        print(Res)
+    def Multiplicacao(x,y):
+        res = x*y
+        print(res)
 
-    def Divisao(X,Y):
-        Res = X/Y
-        print(Res)
+    def Divisao(x,y):
+        res =x/y
+        print(res)
 
-    Adicao(10,8)
-    Subtracao(20,2)
-    Multiplicacao(9,2)
-    Divisao(36,2)
+    Adicao(2,2)
+    Subtracao(4,2)
+    Multiplicacao(5,2)
+    Divisao(8,4)
