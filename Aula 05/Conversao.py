@@ -18,7 +18,7 @@ class Conversao:
     
     def altura ():
 
-        Pés = [32,46,51,67,78, 81,89,91,95,100]
+        Pés = [32,46,51,67,78,81,89,91,95,100]
         Metros = []
         for x in Pés:
             Metros.append(round((x*1)*0.3048,2))
